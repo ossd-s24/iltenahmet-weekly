@@ -36,7 +36,7 @@ footer-links:
   pinterest:
   twitter:
   stackoverflow: 
-  youtube: @iltenahmet # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Your website URL (e.g. https://ossd-s23.github.io/weekly )
