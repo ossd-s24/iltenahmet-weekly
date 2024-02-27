@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| | | |      |
+| February 27, 2024 |[link](https://github.com/ossd-s24/insult-reminders/issues/16) | Code |  I moved their data to a json file and have the script fetch from there  |
 |     |     |     |      |
 |     |     |     |      |
