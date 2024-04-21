@@ -27,3 +27,7 @@ Replace the first row with your own contribution.
 | April 15, 2024 | Wikipedia: [link](https://en.wikipedia.org/wiki/Special:Contributions/Demirozudegnek) | Wikipedia | Added a source for an information about my favorite soccer team |
 | April 15, 2024 | Wikipedia: [link](https://en.wikipedia.org/wiki/Special:Contributions/Demirozudegnek) | Wikipedia | Added more detailed descriptions of the recent accomplishments of my favorite soccer team |
 | April 15, 2024 | Wikipedia: [link](https://en.wikipedia.org/wiki/Special:Contributions/Demirozudegnek) | Wikipedia | Added source about my favorite Turkish dish: Tantuni |
+| April 21, 2024 | Loc: [link](https://github.com/cgag/loc/pull/154) | Code | Added GDScript support to a Rust based command line tool that counts how many lines of code there are in a project. |
+
+
+
